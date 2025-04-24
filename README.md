@@ -6,7 +6,7 @@ A full-stack **Airbnb clone** built with a **Ruby on Rails** backend and a **Rea
 
 ## 🖼️ Demo
 
-![Airbnb Clone Demo](./assets/airbnb.png)
+![Airbnb Clone Demo](./src/airbnb.png)
 
 ---
 
